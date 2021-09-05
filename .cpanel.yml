@@ -1,0 +1,10 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home4/fclogwor/public_html/hyeiderconstruction
+    - /bin/cp -R css $DEPLOYPATH
+    - /bin/cp -R assets $DEPLOYPATH
+    - /bin/cp -R js $DEPLOYPATH
+    - /bin/cp Logo_final.svg $DEPLOYPATH
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp README.md $DEPLOYPATH
