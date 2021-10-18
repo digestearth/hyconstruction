@@ -11438,6 +11438,7 @@ header.masthead .masthead-heading {
     line-height: 4.5rem;
     margin-bottom: 4rem;
   }
+}
   header.renewablebanner {
     padding-top: 10.5rem;
     padding-bottom: 6rem;
@@ -11447,7 +11448,7 @@ header.masthead .masthead-heading {
     background-image: url("../assets/img/backgrounds/window.png");
     background-repeat: no-repeat;
     background-attachment: scroll;
-    background-position: 50% 34%;
+    background-position: center center;
     background-size: cover;
   }
   header.renewablebanner .renewablebanner-subheading {
@@ -11486,6 +11487,7 @@ header.masthead .masthead-heading {
       margin-bottom: 0rem;
     }
 }
+
 #portfolio .portfolio-item {
   max-width: 26rem;
   margin-left: auto;
