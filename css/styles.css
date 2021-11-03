@@ -11414,9 +11414,10 @@ header.masthead .masthead-subheading {
   font-family: "Raleway", "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 header.masthead .masthead-heading {
-  font-size: 3.25rem;
+  font-size: 2.75rem;
   font-weight: 700;
   line-height: 3.25rem;
+  padding-left: 5rem;
   margin-bottom: 2rem;
   font-family: "Raleway", "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
